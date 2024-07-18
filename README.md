@@ -26,8 +26,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat&logo=cpp)&nbsp;
-![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+![CPP](https://img.shields.io/badge/-CPP-05122A?style=flat&logo=CPP)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
