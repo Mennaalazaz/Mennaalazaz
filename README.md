@@ -32,8 +32,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/-R%20-05122A?style=flat&logo=python)&nbsp;
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving%20-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R%20-05122A?style=flat&logo=R)&nbsp;
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving%20-05122A?style=flat&logo=Problem%20Solving)&nbsp;
 
 
 
