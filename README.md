@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/menna-mohamed-9a9aaa315/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/menna-mohamed-9a9aaa315/" target="_blank"><img src="https://img.shields.io/badge/-Menna%20Alazaz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
