@@ -13,8 +13,8 @@
 
 
 
-- 🏢 **Alexandria University - Faculty of Computer & Data Science **
-- 👩‍💻 ** I am always learning and exploring new Technolgies to improve my skills**
+- 🏢 **Alexandria University - Faculty of Computer & Data Science**
+- 👩‍💻 **I am always learning and exploring new Technolgies to improve my skills**
 ---
 
 
